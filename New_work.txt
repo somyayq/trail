@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+so hey we are having important work tonight .
+so you all must be present in my office at sharp 10PM. 
+=======
+Hello Everyone Let's Have a party tonight .
+Party will at sharp 9 PM
+>>>>>>> 8cdc548dc37ce0f05c1d5997c76525edc880c995
